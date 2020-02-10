@@ -5,3 +5,5 @@
 
  - Pro Processing for Images and Computer Vision with OpenCV (Solutions for Media Artists and Creative Coders) by Bryan WC Chung
  - Practical Machine Learning and Image Processing For Facial Recognition, Object Detection, and Pattern Recognition Using Python by Himanshu Singh
+
+ - OpenCV By Example Enhance your understanding of Computer Vision and image processing by developing real-world projects in OpenCV 3 by Prateek Joshi, David Millán Escrivá and Vinícius Godoy
